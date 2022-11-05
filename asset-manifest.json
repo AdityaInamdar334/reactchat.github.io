@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactchat.github.io/static/css/main.9cb7495d.chunk.css",
+    "main.js": "/reactchat.github.io/static/js/main.ba0461fb.chunk.js",
+    "main.js.map": "/reactchat.github.io/static/js/main.ba0461fb.chunk.js.map",
+    "runtime-main.js": "/reactchat.github.io/static/js/runtime-main.36aa332a.js",
+    "runtime-main.js.map": "/reactchat.github.io/static/js/runtime-main.36aa332a.js.map",
+    "static/js/2.4ae50c8f.chunk.js": "/reactchat.github.io/static/js/2.4ae50c8f.chunk.js",
+    "static/js/2.4ae50c8f.chunk.js.map": "/reactchat.github.io/static/js/2.4ae50c8f.chunk.js.map",
+    "index.html": "/reactchat.github.io/index.html",
+    "precache-manifest.b0cd25d1e02e9130617e32d189225010.js": "/reactchat.github.io/precache-manifest.b0cd25d1e02e9130617e32d189225010.js",
+    "service-worker.js": "/reactchat.github.io/service-worker.js",
+    "static/css/main.9cb7495d.chunk.css.map": "/reactchat.github.io/static/css/main.9cb7495d.chunk.css.map",
+    "static/js/2.4ae50c8f.chunk.js.LICENSE.txt": "/reactchat.github.io/static/js/2.4ae50c8f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36aa332a.js",
+    "static/js/2.4ae50c8f.chunk.js",
+    "static/css/main.9cb7495d.chunk.css",
+    "static/js/main.ba0461fb.chunk.js"
+  ]
+}
